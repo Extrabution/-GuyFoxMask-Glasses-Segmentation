@@ -1,4 +1,4 @@
-# GuyFoxMask-Glasses Detection
+# GuyFoxMask-Glasses Segmentation
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Es9ASUMRhD0JzYplHgJtRTOElySoLDno?usp=sharing)
 ## Structure
 
